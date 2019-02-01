@@ -1,0 +1,16 @@
+/* .App {
+  text-align: center;
+} */
+
+.error {
+  border: 1px solid red !important;
+}
+
+span {
+  font-size: 14px;
+  color: #8b0000;
+}
+
+.myForm {
+  margin-top: 3rem;
+}
